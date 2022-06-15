@@ -1,4 +1,5 @@
 # Artem20025-Proizvodstvennaya-praktika2022-Danilishin-Artem
+
 ### Шаблон Python
 # Байт-скомпилированные / оптимизированные / DLL файлы
 __pycache__/
